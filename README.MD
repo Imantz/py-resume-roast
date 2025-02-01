@@ -9,11 +9,11 @@
 - ✅ Fun, witty feedback on how well your resume fits the job
 - ✅ Actionable tips to improve your chances of getting hired
 
-😂 Why Resume-Roast?
-💡 No more job rejections without knowing why
-💡 Saves time by optimizing your resume for each job
-💡 Fun & engaging – AI makes job hunting less depressing!
-💡 Helps you beat ATS and HR filters like a pro 🤖
+Why Resume-Roast?
+- 💡 No more job rejections without knowing why
+- 💡 Saves time by optimizing your resume for each job
+- 💡 Fun & engaging – AI makes job hunting less depressing!
+- 💡 Helps you beat ATS and HR filters like a pro 🤖
 
 🔥 Is Your Resume “Fire” or Just a Dumpster Fire?
 Upload it now and let Resume-Roast tell you the truth!
