@@ -18,6 +18,8 @@ Why Resume-Roast?
 🔥 Is Your Resume “Fire” or Just a Dumpster Fire?
 Upload it now and let Resume-Roast tell you the truth!
 
+---
+
 🚨 **PRIVACY WARNING** – READ BEFORE USING! 🚨
 
 ❗ **Your resume data will be sent to Gemini AI.**
@@ -26,9 +28,12 @@ Upload it now and let Resume-Roast tell you the truth!
 
 ❗ **Ensure you understand the privacy implications before proceeding.**
 
+---
+
 
 🔴 DO NOT UPLOAD CONFIDENTIAL OR SENSITIVE INFORMATION! 🔴
 
+---
 📊 Match Percentage Guide
 
 | Match Percentage | Relevance Level | Action |
