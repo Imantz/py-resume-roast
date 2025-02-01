@@ -18,8 +18,18 @@ Why Resume-Roast?
 🔥 Is Your Resume “Fire” or Just a Dumpster Fire?
 Upload it now and let Resume-Roast tell you the truth!
 
+🚨 **PRIVACY WARNING** – READ BEFORE USING! 🚨
 
-## Match Percentage Guide
+❗ **Your resume data will be sent to Gemini AI.**
+
+❗ **If you do not want Gemini AI to process your resume, DO NOT USE THIS APP.**
+
+❗ **Ensure you understand the privacy implications before proceeding.**
+
+
+🔴 DO NOT UPLOAD CONFIDENTIAL OR SENSITIVE INFORMATION! 🔴
+
+📊 Match Percentage Guide
 
 | Match Percentage | Relevance Level | Action |
 |------------------|----------------|--------|
@@ -38,6 +48,12 @@ git clone https://github.com/Imantz/py-resume-roast.git && cd py-resume-roast
 ```
 python3 -m pip install -r requirements.txt
 ```
+#### Copy .env.example to .env
+```
+cp .env.example .env
+```
+**don't forget to set .env file GEMINI_API_KEY**
+
 
 #### Run the App
 ```
@@ -45,3 +61,5 @@ python3 app.py
 ```
 
 Visit: http://127.0.0.1:7860
+
+![alt text](image.png)
